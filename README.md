@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.jpg" width="100%" alt="Sanskar Agrawal Banner" />
+  <img src="./assets/header1.jpg" width="100%" alt="Sanskar Agrawal Banner" />
 </div>
 
 <div align="center">
